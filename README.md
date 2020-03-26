@@ -28,6 +28,8 @@ There is a COVID-19 pandemic situation. When will it end? How much people will b
 19- Names&sentences can be changed with the ones that have exactly same meaning. For example: "First patient at" => "The first date which first patient apeared".  
 20- Difference between historical data and what is predicted data should be clear. The understanding of what is "real" and what is "prediction" is important. Any kind of UI/UX or visualisation techniques must be used to achieve this distinction.  
 21- The data used to create predictions have to be mentioned in the application and shown to user. For example: If you use gdp, location, time, currency to predict last patient date, then "gdp, location,time, currency was used" like sign should be visible to user.
+22- As long as rules applied, any additions are welcome.
+
 # Goal&Use cases:
 You should research the data, tools and/or information to create an application that can make and visualize COVID-19 disease predictions. Application should have the following stories:
 
