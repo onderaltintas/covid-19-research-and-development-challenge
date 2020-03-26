@@ -1,0 +1,1 @@
+https://github.com/limx54/KGGseq/blob/master/src/org/cobi/util/stat/LinearRegression.java
