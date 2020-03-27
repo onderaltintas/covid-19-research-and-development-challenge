@@ -1,6 +1,3 @@
-# covid-19-research-and-development-challange
-There is a COVID-19 pandemic situation. When will it end? How much people will be affected? What will be the peak points of spread? A challange of data science&amp;software development  to create predictions from historical data and visualize it.
-
 # Introduction:
 
 There is a COVID-19 pandemic situation. When will it end? How much people will be affected? What will be the peak points of spread? Data science & Software development might help to predict and GIS might help to visualize. A software can be developed to process data resources of countries (gdp, location, covid 19 time series data, money that was spent on medicines etc.) to make these estimations and visualize them with only using opensource technologies and open data.
