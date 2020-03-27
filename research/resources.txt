@@ -1,2 +1,2 @@
-teserract multiparameter linear regression:
+tensorflow multiparameter linear regression:
 https://towardsdatascience.com/linear-regression-with-tensorflow-js-e7b39713572
