@@ -1,2 +1,5 @@
 tensorflow multiparameter linear regression:
 https://towardsdatascience.com/linear-regression-with-tensorflow-js-e7b39713572
+
+covid map by google, how do they find city data?
+https://www.google.com/covid19-map/?hl=tr

@@ -1,0 +1,9 @@
+1- Prof.@germany says that the air pollution affects the situation. 
+https://www.youtube.com/watch?v=rEvHQK_pKiw
+2- demographics?
+3- spain age distribution:
+https://www.statista.com/statistics/271056/age-distribution-in-spain/
+4- world bank data:
+https://data.worldbank.org/?most_recent_year_desc=true
+5- covid data the main data source***
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
