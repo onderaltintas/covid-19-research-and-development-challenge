@@ -3,3 +3,7 @@ https://towardsdatascience.com/linear-regression-with-tensorflow-js-e7b39713572
 
 covid map by google, how do they find city data?
 https://www.google.com/covid19-map/?hl=tr
+
+corona wikipedia tables by city:
+https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Turkey#11%E2%80%9320_April
+https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data
